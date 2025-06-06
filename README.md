@@ -1,14 +1,14 @@
 ## About me
 
-Hi, I'm Vlad. I am marketing BI analyst with 8+ years of experience. I mostly use Tableau Desktop for visualization and Tableau Prep/SQL for data preparation. 
+Hi, I'm Vlad. I am a marketing and business intelligence analyst with over 8 years of experience. I mostly use Tableau Desktop for visualization and Tableau Prep/SQL for data preparation. 
 
-| Rank | Tools |
+|  | Tools |
 |-----:|-----------|
-|     1| Tableau   |
-|     2| SQL       |
-|     3| Power BI  |
+|    ⚡|  Tableau   |
+|    😄 | SQL       |
+|    🌱 | Power BI  |
 
-I am currently learning new features in python to improve my hard skills and working on a data visualization pet project for an educational startup. 
+I am currently learning new features in Python to enhance my technical skills and working on a data visualization project for an educational startup. 
 <!--
 **VladimirServetnik/VladimirServetnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
