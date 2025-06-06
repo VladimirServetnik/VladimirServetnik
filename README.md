@@ -2,11 +2,11 @@
 
 Hi, I'm Vlad. I am marketing BI analyst with 8+ years of experience. I mostly use Tableau Desktop for visualization and Tableau Prep/SQL for data preparation. 
 
-| Rank | Tools |
+|  | Tools |
 |-----:|-----------|
-|     1| Tableau   |
-|     2| SQL       |
-|     3| Power BI  |
+|    ⚡|  Tableau   |
+|    😄 | SQL       |
+|    🌱 | Power BI  |
 
 I am currently learning new features in python to improve my hard skills and working on a data visualization pet project for an educational startup. 
 <!--
